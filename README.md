@@ -48,6 +48,10 @@ O projeto tem como principais objetivos:
 
 ---
 
+## Observação
+
+As imagens dos códigos e execução do projeto estão contidas no arquivo PDF enviado.
+
 ## 📊 Parâmetros de segurança
 
 | Parâmetro              | Unidade | Condição segura     |
